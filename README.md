@@ -40,4 +40,5 @@
 
 
 ### Примеры:
-![image](https://user-images.githubusercontent.com/1548978/151764312-b0b44445-1879-43aa-a7c5-040699232752.png) ![image](https://user-images.githubusercontent.com/1548978/151764448-28b34c0b-d45e-43c4-820b-85a104787a5c.png)![image](https://user-images.githubusercontent.com/1548978/151764540-9d836696-f3df-4271-80b2-d6f8f8591e0a.png)![image](https://user-images.githubusercontent.com/1548978/151764746-3a8a9b64-d7bb-4a92-9af2-995aa0cf3573.png)
+![image](https://user-images.githubusercontent.com/1548978/151766567-ee2a9fc6-586d-46ce-80cf-5b9c7767646e.png)
+![image](https://user-images.githubusercontent.com/1548978/151766638-65d3f0b6-12ed-43ee-be8c-f3b830baeaf4.png)
